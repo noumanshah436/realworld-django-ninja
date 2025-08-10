@@ -85,7 +85,6 @@ pip*
 db.sqlite3
 
 # Editors
-.vscode/
 
 # Mac stuff
 .DS_Store
@@ -93,3 +92,5 @@ db.sqlite3
 # Custom
 notes.md
 notes.txt
+temp_auto_push.bat
+temp_interactive_push.bat
